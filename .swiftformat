@@ -1,0 +1,8 @@
+# file options
+
+--exclude ./XCTemplates
+
+# format options
+
+--stripunusedargs closure-only
+--indent 2
